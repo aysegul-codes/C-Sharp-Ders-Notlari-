@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="projeler1/projeler1.csproj" />
   <Project Path="projeler2/projeler2.csproj" Id="4db2aba9-a3d4-4884-a992-a701f5713dd0" />
+  <Project Path="projeler3/projeler3.csproj" Id="20dba228-9225-4497-8e70-3a37c6a5c596" />
 </Solution>
