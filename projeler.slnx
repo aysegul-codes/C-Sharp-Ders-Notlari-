@@ -3,4 +3,5 @@
   <Project Path="projeler2/projeler2.csproj" Id="4db2aba9-a3d4-4884-a992-a701f5713dd0" />
   <Project Path="projeler3/projeler3.csproj" Id="20dba228-9225-4497-8e70-3a37c6a5c596" />
   <Project Path="projeler4/projeler4.csproj" Id="5f4c4fca-e417-4054-b66b-1f1ae1c05ba2" />
+  <Project Path="projeler5/projeler5.csproj" Id="61622574-63ff-45a0-b624-25c128f73d23" />
 </Solution>
