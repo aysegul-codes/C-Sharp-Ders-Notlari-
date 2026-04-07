@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="proje7/proje7.csproj" Id="6ba0359e-d702-4d95-8dd7-70b455f2011f" />
   <Project Path="proje8/proje8.csproj" Id="64730968-acb1-453b-87fa-c69cfededa97" />
+  <Project Path="proje9/proje9.csproj" Id="698b7fd6-f1fb-4903-a3cb-ff40a4ee0a54" />
   <Project Path="projeler1/projeler1.csproj" />
   <Project Path="projeler2/projeler2.csproj" Id="4db2aba9-a3d4-4884-a992-a701f5713dd0" />
   <Project Path="projeler3/projeler3.csproj" Id="20dba228-9225-4497-8e70-3a37c6a5c596" />
