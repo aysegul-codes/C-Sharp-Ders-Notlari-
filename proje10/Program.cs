@@ -1,0 +1,44 @@
+﻿namespace proje10
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        { // ÖRN: Kullanıcı tarafından tam sayı olarak değerleri girilen 3 elemanlı bir dizinin en büyük elemanını bularak ekrana yazan konsol uygulamasının C# dilinde kodunu yazınız.
+            try
+            {
+                int[] SayiDizisi = new int[3];
+
+                for (int i = 0; i < SayiDizisi.Length; i++)
+                {
+                    Console.Write("Dizinin {0}. Elemanını Giriniz : ", i);
+                    string Metin = Console.ReadLine();
+                    SayiDizisi[i] = Convert.ToInt32(Metin);
+                }
+
+                int EnBuyuk = SayiDizisi[0];
+                string SayiMetin = "";
+
+                foreach (int Sayi in SayiDizisi)
+                {
+                    if (Sayi > EnBuyuk)
+                    {
+                        EnBuyuk = Sayi;
+                    }
+
+                    SayiMetin += Sayi.ToString() + "-";
+                }
+
+                Console.WriteLine("Girilen {0} sayıları arasındaki en büyük sayı {1} sayısıdır.",
+                    SayiMetin.Trim('-'), EnBuyuk);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("HATA : {0}", ex.ToString());
+            }
+            finally
+            {
+                Console.ReadKey();
+            }
+        }
+    }
+}
