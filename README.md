@@ -9,8 +9,10 @@ Bu depo (repository), **Hitit Üniversitesi Bilgisayar Programcılığı** eğit
 * [**projeler1:**](https://github.com/aysegul-codes/C-Sharp-Ders-Notlari-/tree/main/projeler1)
 * [**projeler2:**](https://github.com/aysegul-codes/C-Sharp-Ders-Notlari-/tree/main/projeler2)
 *   → Temel C# sözdizimi ve ilk konsol uygulamaları.
+
 * [**projeler3 (Döngüler - Toplam Hesaplama):**](https://github.com/aysegul-codes/C-Sharp-Ders-Notlari-/tree/main/projeler3)
 *  → `for` döngüsü kullanarak belirli aralıktaki sayıların toplamını hesaplama.
+
 * [**projeler4 (Tek Sayı Toplamı & Try-Catch):**](https://github.com/aysegul-codes/C-Sharp-Ders-Notlari-/tree/main/projeler4)
 * → Karar yapıları (`if`), döngüler ve hata yönetimi (`try-catch-finally`) pratikleri.
     
@@ -28,6 +30,7 @@ Bu depo (repository), **Hitit Üniversitesi Bilgisayar Programcılığı** eğit
    
 * [**proje9 (Dizi İşlemleri):**](https://github.com/aysegul-codes/C-Sharp-Ders-Notlari-/tree/main/proje9)
 * → Dizi elemanlarını toplayan konsol uygulaması.
+
 * [**proje10 (En Büyük Sayı):**]( https://github.com/aysegul-codes/C-Sharp-Ders-Notlari-/tree/main/proje10)
 * → 3 elemanlı bir dizideki en büyük sayıyı bulan algoritma.
   
